@@ -1,6 +1,6 @@
 @extends('layouts.admin')
-@section('content')
 
+@section('content')
 <div class="card">
     <div class="card-header">
         {{ trans('global.create') }} {{ trans('cruds.task.title_singular') }}
@@ -37,7 +37,4 @@
         </form>
     </div>
 </div>
-
-
-
 @endsection
