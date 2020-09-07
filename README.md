@@ -4,8 +4,8 @@ The actual files to be changed can be found in a [Pull Request here](https://git
 
 __Admin Layout__
 
-![Admin Layout](https://quickadminpanel.com/blog/wp-content/uploads/2020/09/Screen-Shot-2020-09-07-at-10.13.24-AM.png)
+![Admin Layout](https://quickadminpanel.com/blog/wp-content/uploads/2020/09/Screen-Shot-2020-09-07-at-10.13.41-AM.png)
 
 __User Layout__
 
-![Admin Layout](https://quickadminpanel.com/blog/wp-content/uploads/2020/09/Screen-Shot-2020-09-07-at-10.13.41-AM.png)
+![Admin Layout](https://quickadminpanel.com/blog/wp-content/uploads/2020/09/Screen-Shot-2020-09-07-at-10.13.24-AM.png)
